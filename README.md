@@ -13,3 +13,5 @@ https://github.com/myDevicesIoT/Cayenne-MQTT-Arduino/blob/master/examples/Connec
 This example logs DS18B20 temperature probe (or any compatible Dallas Probe; assumed to be on Digital IO 13) to Cayenne (channel 0).
 
 Requires Cayenne setup a free account and add new a new device https://developers.mydevices.com/cayenne/landing/jumpstart-arduino-projects-cayenne/
+
+<img src="https://github.com/GregariousEngineering/UnoWifiRev2CayenneSensor/blob/master/images/UnoWifiRev2.png">

@@ -1,6 +1,6 @@
 # Ardruino Uno Wifi Rev2 Cayenne Sensor Example
 
-![Aeroponic Temperature Logger]<img src="https://github.com/GregariousEngineering/UnoWifiRev2CayenneSensor/blob/master/images/AeroTempMon.jpeg" width="378" height="284">
+<img src="https://github.com/GregariousEngineering/UnoWifiRev2CayenneSensor/blob/master/images/AeroTempMon.jpeg" width="756" height="567">
 
 A simple Ardruino class demonstrating Cayenne on Ardruino Uno Wifi Rev2 (since myDevices/Cayenne have no sample for this board)
 

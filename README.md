@@ -1,9 +1,3 @@
-
-
-Requires Cayenne setup a free account and add new a new device https://developers.mydevices.com/cayenne/landing/jumpstart-arduino-projects-cayenne/
-
-<img src="https://github.com/GregariousEngineering/UnoWifiRev2CayenneSensor/blob/master/images/UnoWifiRev2.png">
-
 Ardruino Uno Wifi Rev2 Cayenne Sensor Example
 ========================================
 <img src="https://github.com/GregariousEngineering/UnoWifiRev2CayenneSensor/blob/master/images/AeroTempMon.jpeg">

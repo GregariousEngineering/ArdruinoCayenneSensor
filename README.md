@@ -25,7 +25,6 @@ Requirements/Assumptions
    * **OneWire.h/DallasTemperature.h** - Simplifies reading temp sensor
    * **[SimpleTimer](https://playground.arduino.cc/Code/SimpleTimer/)** - Simplifies publishing to Cayenne at interval
 * **Temp Sensor Wired to Digital IO 13** - Account is required to pull current weather data (no longer accepting signups.....since bought by Apple?)
-   * **[Dark Sky API](https://darksky.net/dev)**
 
 License Information
 -------------------

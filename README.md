@@ -7,13 +7,13 @@ A simple Ardruino class demonstrating Cayenne on Ardruino Uno Wifi Rev2 (since m
 Acknowledgements
 ----------------
 * **Based on the the following**
-   * **["Sending Data of MQTT" Ardruino Turorial](https://docs.arduino.cc/tutorials/uno-wifi-rev2/uno-wifi-r2-mqtt-device-to-device)**
-   * **[Cayenne WifiShield Connection Example](https://github.com/myDevicesIoT/Cayenne-MQTT-Arduino/blob/master/examples/Connections/WiFiShield/WiFiShield.ino)**
-   * **[ArdruinoGettingStarted Temperature Sesnor](https://arduinogetstarted.com/tutorials/arduino-temperature-sensor)**
+   * **["Sending Data over MQTT" Ardruino Turorial](https://docs.arduino.cc/tutorials/uno-wifi-rev2/uno-wifi-r2-mqtt-device-to-device)**
+   * **[Cayenne WiFiShield Connection Example](https://github.com/myDevicesIoT/Cayenne-MQTT-Arduino/blob/master/examples/Connections/WiFiShield/WiFiShield.ino)**
+   * **[ArdruinoGettingStarted Temperature Sensor](https://arduinogetstarted.com/tutorials/arduino-temperature-sensor)**
 
 Repository Contents
 -------------------
-* **/cayenne_temp.ino** - Example Ardruino class logs DS18B20 temperature probe (or any compatible Dallas Probe; assumed to be on Digital IO 13) to Cayenne (channel 0).
+* **./cayenne_temp.ino** - Example Ardruino class logs DS18B20 temperature probe (or any compatible Dallas Probe; assumed to be on Digital IO 13) to Cayenne (channel 0).
 
 Requirements/Assumptions
 --------------

@@ -1,6 +1,6 @@
 # Ardruino Uno Wifi Rev2 Cayenne Sensor Example
 
-<img src="https://github.com/GregariousEngineering/UnoWifiRev2CayenneSensor/blob/master/images/AeroTempMon.jpeg" width="756" height="567">
+<img src="https://github.com/GregariousEngineering/UnoWifiRev2CayenneSensor/blob/master/images/AeroTempMon.jpeg">
 
 A simple Ardruino class demonstrating Cayenne on Ardruino Uno Wifi Rev2 (since myDevices/Cayenne have no sample for this board)
 

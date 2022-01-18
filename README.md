@@ -1,6 +1,6 @@
 Ardruino Uno Wifi Rev2 Cayenne Sensor Example
 ========================================
-<img src="https://github.com/GregariousEngineering/UnoWifiRev2CayenneSensor/blob/master/images/AeroTempMon.jpeg">
+<img src="https://github.com/GregariousEngineering/UnoWifiRev2CayenneSensor/blob/master/images/UnoWifiRev2.png">
 
 A simple Ardruino class demonstrating Cayenne on Ardruino Uno Wifi Rev2 (since myDevices/Cayenne have no sample for this board). 
 
@@ -10,8 +10,6 @@ Acknowledgements
     * **["Sending Data of MQTT" Ardruino Turorial](https://docs.arduino.cc/tutorials/uno-wifi-rev2/uno-wifi-r2-mqtt-device-to-device)
     * **[Cayenne WifiShield Connection Example](https://github.com/myDevicesIoT/Cayenne-MQTT-Arduino/blob/master/examples/Connections/WiFiShield/WiFiShield.ino)
     * **[ArdruinoGettingStarted Temperature Sesnor](https://arduinogetstarted.com/tutorials/arduino-temperature-sensor)
-
-<img src="https://github.com/GregariousEngineering/UnoWifiRev2CayenneSensor/blob/master/images/UnoWifiRev2.png">
 
 Repository Contents
 -------------------
@@ -35,3 +33,5 @@ License Information
 This product is _**open source**_! Distributed as-is, _**with flaws**_; absolutely no warranty implied.
 
 **- GregariousEngineer**
+----------------------
+<img src="https://github.com/GregariousEngineering/UnoWifiRev2CayenneSensor/blob/master/images/AeroTempMon.jpeg">
